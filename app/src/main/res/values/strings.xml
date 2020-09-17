@@ -3,4 +3,8 @@
     <string name="title_activity_maps">Map</string>
     <string name="map">Map</string>
     <string name="markers">Markers</string>
+    <string name="marker_title">Create new marker</string>
+    <string name="marker_message">Add new marker at this place?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
